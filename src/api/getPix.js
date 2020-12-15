@@ -7,6 +7,6 @@ export async function handler(event, ctx) {
 
   return {
     statusCode: 200,
-    body: data,
+    body: JSON.stringify(data),
   };
 }
