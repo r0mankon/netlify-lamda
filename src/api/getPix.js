@@ -1,6 +1,6 @@
 import { APIGatewayEvent, Context } from "aws-lambda";
 import fetch from "node-fetch";
-import encoding from "encoding";
+// import encoding from "encoding";
 
 /**
  * @param { APIGatewayEvent } event
