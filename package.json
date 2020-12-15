@@ -3,6 +3,7 @@
     "lambda-build": "netlify-lambda build src/api"
   },
   "dependencies": {
+    "encoding": "^0.1.13",
     "netlify-lambda": "^2.0.2",
     "node-fetch": "^2.6.1"
   }
