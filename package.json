@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "lambda-build": "netlify-lambda build src/api"
+    "lambda-build": "netlify-lambda build src/api",
+    "start": "netlify dev"
   },
   "dependencies": {
     "encoding": "^0.1.13",
