@@ -4,11 +4,11 @@
     "start": "netlify dev"
   },
   "dependencies": {
+    "@types/aws-lambda": "^8.10.66",
     "encoding": "^0.1.13",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.66",
     "netlify-lambda": "^2.0.2"
   }
 }
